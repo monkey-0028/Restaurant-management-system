@@ -7,7 +7,7 @@ items during last 5 days. Use file to store data.
 
 ### NOTE
 * This code only works on uniux-like os that support certain character and command `clear` to clear screen.
-    * This is because in my code, i have used 'system("clear")' a lot.
+    * This is because in my code, i have used `system("clear")` a lot.
 * **restart** option changes the day number. So that without closing the programme, you can collect 5-day data.
     * **day** used here is not the actual day, it is virtual not real-time based application
 
