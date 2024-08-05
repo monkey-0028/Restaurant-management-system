@@ -11,4 +11,4 @@ items during last 5 days. Use file to store data.
 * **restart** option changes the day number. So that without closing the programme, you can collect 5-day data.
     * **day** used here is not the actual day, it is virtual not real-time based application
 
-> if you find any error, you can open an issue, I will appretiate that.
+> if you find any error, you can open an issue.
